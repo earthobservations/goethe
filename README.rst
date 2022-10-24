@@ -3,6 +3,37 @@ goethe
 
 Create RST documents programmatically with Python
 
+.. image:: https://github.com/earthobservations/goethe/workflows/Tests/badge.svg
+   :target: https://github.com/earthobservations/goethe/actions?workflow=Tests
+   :alt: CI: Overall outcome
+.. image:: https://codecov.io/gh/earthobservations/goethe/branch/main/graph/badge.svg
+   :target: https://codecov.io/gh/earthobservations/goethe
+   :alt: CI: Code coverage
+.. image:: https://img.shields.io/pypi/v/goethe.svg
+   :target: https://pypi.org/project/goethe/
+   :alt: PyPI version
+.. image:: https://img.shields.io/pypi/status/goethe.svg
+   :target: https://pypi.python.org/pypi/goethe/
+   :alt: Project status (alpha, beta, stable)
+.. image:: https://pepy.tech/badge/goethe/month
+   :target: https://pepy.tech/project/goethe
+   :alt: PyPI downloads
+.. image:: https://img.shields.io/github/license/earthobservations/goethe
+   :target: https://github.com/earthobservations/goethe/blob/main/LICENSE
+   :alt: Project license
+.. image:: https://img.shields.io/pypi/pyversions/goethe.svg
+   :target: https://pypi.python.org/pypi/goethe/
+   :alt: Python version compatibility
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+   :target: https://github.com/psf/black
+   :alt: Documentation: Black
+
+----
+
+WARNING: THIS PROJECT IS CURRENTLY IN ALPHA STAGE. DON'T USE IN PRODUCTION!
+
+----
+
 Introduction
 ************
 
